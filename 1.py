@@ -27,4 +27,5 @@ print(a.dtype)
 print(a.empty)
 print(pd.Series([1,2,np.nan]).hasnans)
 print(pd.Series([1]).nbytes)
+
 print(a.ndim)
